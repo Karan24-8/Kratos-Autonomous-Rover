@@ -630,25 +630,3 @@ To contribute to the Kratos Rover project:
 5. Push to GitHub: `git push origin feature/your-feature`
 6. Create a Pull Request with detailed description
 
-## License
-
-This project is part of the Project Kratos initiative. Please see LICENSE file for details.
-
-## Support & Contact
-
-For issues, bugs, or questions:
-- Create an issue on GitHub
-- Contact the Project Kratos team
-
-## Recent Updates
-
-**January 19, 2026**:
-- Updated RTAB-Map launch configuration with sync parameter fixes
-- Added `new_map` launch argument for database reset control
-- Comprehensive README update with full package documentation
-- Added deployment guidelines for real robot usage
-
----
-
-**Last Updated**: January 19, 2026 
-
