@@ -650,6 +650,5 @@ For issues, bugs, or questions:
 
 ---
 
-**Last Updated**: January 19, 2026  
-**Repository**: https://github.com/Project-Kratos-25-26/kratos-rover
+**Last Updated**: January 19, 2026 
 
